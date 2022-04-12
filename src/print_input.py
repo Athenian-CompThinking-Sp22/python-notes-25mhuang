@@ -8,10 +8,7 @@
 # Write code here:
 
 name = input('Enter your name: ')
+# asks for user's name
 
 print(f'Hello {name}')
-
-num1 = float(input("Enter Number 1: "))
-num2 = float(input("Enter Number 2: "))
-
-print(num1 + num2)
+# prints users name
