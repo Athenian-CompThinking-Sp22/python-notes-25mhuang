@@ -10,7 +10,7 @@
 name = input('Enter your name: ')
 # asks for users name
 
-if name == 'Michael':
+if name == 'Michael' or name == 'michael':
     print('Hello Michael.')
 elif name == 'e':
     print('e')
