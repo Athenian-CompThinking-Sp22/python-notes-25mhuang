@@ -13,4 +13,4 @@ password = 'o'
 while password != 'poggers':
     password = input('Enter password: ')
 print('You may enter :)')
-# keeps asking user for password and displays entrance msg when correct
+# keeps asking user for password and displays enter msg when correct
