@@ -4,3 +4,16 @@
 #
 #
 #############################
+# conditionals can check for ints and floats too
+# can add terms to conditionals with 'or' or 'and'
+
+name = input('Enter your name: ')
+# asks for users name
+
+if name == 'Michael' or name == 'michael':
+    print('Hello Michael.')
+elif name == 'e':
+    print('e')
+else:
+    print(f'Nice to meet you {name}.')
+# greets entered name or e

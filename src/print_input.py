@@ -6,3 +6,9 @@
 #############################
 
 # Write code here:
+
+name = input('Enter your name: ')
+# asks for user's name
+
+print(f'Hello {name}')
+# prints users name
